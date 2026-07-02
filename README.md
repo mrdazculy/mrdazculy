@@ -1,6 +1,6 @@
 # 👋 Hi, I'm mrdazculy
 
-I'm a **14-year-old backend developer from Romania 🇷🇴.**
+I'm a **15-year-old backend developer from Romania 🇷🇴.**
 
 ## About Me
 - Very good at **TypeScript** (i think)
