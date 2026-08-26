@@ -6,7 +6,7 @@ A **15-year-old developer** from Romania 🇷🇴 focused on high-performance ba
 
 ### Languages & Tech
 
-**Primary Backend Stack**  
+**Core Backend Languages**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
